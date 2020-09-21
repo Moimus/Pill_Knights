@@ -11,7 +11,7 @@ The game is all about sword fighting and random generated content currently it f
 - Saving/loading </br>
 - a basic inventory system</br>
 # Videos
-
+Current state</br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/eY4hofBF7xA
 " target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/eY4hofBF7xA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
